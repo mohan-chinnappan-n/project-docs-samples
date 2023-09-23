@@ -28,7 +28,7 @@ The scope of work for this project includes, but is not limited to, the followin
 
 2. Application Design:
    - Create wireframes and design prototypes for the eCommerce website and mobile app.
-   - Develop a user-friendly and visually appealing interface.
+   - Develop a user-friendly, **accesssible** and visually appealing interface.
 
 3. Development:
    - Develop the frontend and backend components of the eCommerce application.
